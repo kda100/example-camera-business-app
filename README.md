@@ -1,6 +1,6 @@
 # Example Camera Business Website
 
-An example camera business web site created using NextJS and Bootstrap.
+An example camera business web site created using NextJS, TypeScript and Bootstrap.
 
 This project is still under production.
 
